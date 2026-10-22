@@ -1,5 +1,5 @@
 html {
-        font-family: Noto Sans, sans-serif;
+        font-family: Times New Roman, serif;
         font-size: 10px;
         background-color: #FAF9F6;
       }
@@ -45,4 +45,10 @@ html {
 
       dt {
         font-weight: bold;
+      }
+
+      #superMarketsImage{
+        width: 300px;
+        height: 200px;
+        float: right;
       }
